@@ -1,4 +1,4 @@
-# KT_MINI_PROJECT_6-2
+# KT_AIVLE_MINI_PROJECT_6-2
 
 # 응급 상황 대응 시스템 (Emergency Response System)
 
